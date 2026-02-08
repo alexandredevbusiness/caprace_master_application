@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../config/constants.dart';
 import '../services/auth_service.dart';
-import 'organisation_screen.dart';
+import './organisation_screen.dart';
 
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key});
