@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:geolocator/geolocator.dart';
 import 'package:flutter/foundation.dart';
-import '../models/gps_point.dart';
-import '../utils/constants.dart';
+import '../../models/gps_point.dart';
+import '../../utils/constants.dart';
 import 'gps_filter.dart';
 import 'distance_calculator.dart';
 
