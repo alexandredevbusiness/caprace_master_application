@@ -3,7 +3,7 @@ import '../config/app_config.dart';
 import '../config/constants.dart';
 import '../services/gps_service.dart';
 import 'auth_screen.dart';
-import 'participant_screen.dart';
+import './participant_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
